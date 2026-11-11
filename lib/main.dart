@@ -1,3 +1,4 @@
+// Sample Hello World screen for CSCI410 Project 1
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
